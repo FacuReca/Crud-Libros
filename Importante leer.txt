@@ -7,7 +7,7 @@ Contraseña: sistema
 
  Es necesario contar con un servidor para poder ejecutar la aplicación, como por ejemplo "xampp".
  Enlace donde podemos descargarlo: https://www.apachefriends.org/es/download.html
- Descargar versión correspondiente a nuestro sistema operativo. Una vez instalado, copiar el repositorio "crud-libros" en la carpeta "htdocs", dentro de la carpeta donde está instalado "xampp".
+ Descargar versión correspondiente a nuestro sistema operativo. Una vez instalado, copiar el repositorio "crudlibros" en la carpeta "htdocs", dentro de la carpeta donde está instalado "xampp".
  En mi caso: C:\xampp\htdocs
  Conectar el servidor, en la url de nuestro navegador escribir "localhost/crudlibros/", sin las comillas para comenzar a utilizar nuestra app.
  Debemos crear una base de datos llamado "sitio" con una tabla llamada "libros" para poder empezar a trabajar con ella.
